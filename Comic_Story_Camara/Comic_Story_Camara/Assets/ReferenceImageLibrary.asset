@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5403177460854848598
+  m_GuidHigh: 911439607376193975
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4805629572694157837
+      m_GuidHigh: 2529461328642903468
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4882518704247177406
+      m_GuidHigh: 12007914400978209700
+    m_SerializedTextureGuid:
+      m_GuidLow: 11413317793336852685
+      m_GuidHigh: 662772492756452234
+    m_Size: {x: 0.1, y: 0.13377927}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-29 a las 10.15.49_8ece0dc9
+    m_Texture: {fileID: 2800000, guid: 0c7d00cd40109e648a03a61512a43209, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5754447043640887574
+      m_GuidHigh: 9414137320501239199
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5607630729657119769
+      m_GuidHigh: 12009746723740240797
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5393067978733877044
+      m_GuidHigh: 7060799804263821476
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5260947585528521577
+      m_GuidHigh: 8664904483734013580
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5380054906827850612
+      m_GuidHigh: 8237612152279098288
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5653700943604500027
+      m_GuidHigh: 8407981792921713831
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4798061618668619339
+      m_GuidHigh: 16760146551913092523
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5213938352755252590
+      m_GuidHigh: 14125691399444209319
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5657222137194935599
+      m_GuidHigh: 13745416653849768095
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4889648008139289805
+      m_GuidHigh: 11309058897020729219
+    m_SerializedTextureGuid:
+      m_GuidLow: 1631699912635994172
+      m_GuidHigh: 2533205274572773945
+    m_Size: {x: 0.1, y: 0.13368984}
+    m_SpecifySize: 1
+    m_Name: Imagen de WhatsApp 2024-05-27 a las 10.47.15_80792dc4
+    m_Texture: {fileID: 2800000, guid: e8b4503cf66c16a4395a0e96c6c02723, type: 3}

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+
+	<English>
+
+		<string name="BUTTON_PARTIDA">New Game</string>
+
+		<string name="VOLUME_TEXT">Volumen</string>
+		<string name="BUTTON_NOSOTROS">SOBRE NOSOTROS</string>
+
+		<string name="TEXT_1_ANIMACION">Year 2500. Humans live happily on Earth. But aboard a Clepsidrian ship...</string>
+		<string name="TEXT_2_ANIMACION">¡Oh!</string>
+		<string name="TEXT_3_ANIMACION">¡Silencio!</string>
+		<string name="TEXT_4_ANIMACION">¡Shhhhh! ¡El ALTO COMISIONADO GALÁCTICO no debe enterarse o el plan estará condenado! ¡Oh, mis congéneres! ¡Los rumores son ciertos! ¡Hemos decubierto la clave de cómo dominar LA TIERRA!</string>
+		<string name="TEXT_5_ANIMACION">Hemos viajado en el tiempo y ocultando un ejército que ha esperado desde la época de los antiguos egipcios a que llegue el momento de invadir el planeta.</string>
+		<string name="TEXT_6_ANIMACION">Pero, ¿y por qué no lo hemos mandado ahora en vez de esperar allí 5.000 años?</string>
+		<string name="TEXT_7_ANIMACION">Con lo que ha costado esta máquina del tiempo, no podíamos tirar la inversión.</string>
+		<string name="TEXT_8_ANIMACION">El caso es que esperan el momento de salir y atacar y ese momento ha llegado.</string>
+		<string name="TEXT_9_ANIMACION">Para evitar errores, ocultamos una palabra clave que detendría la operación si había problemas.</string>
+		<string name="TEXT_10_ANIMACION">Pero lo que ha ocurrido es que hemos perdido la palabra clave y, si un humano la descubre, puede detenernos.</string>
+		<string name="TEXT_11_ANIMACION">Por suerte, los humanos no son tan listas.</string>
+		<string name="TEXT_12_ANIMACION">MIENTRAS, en el museo... Robbie, el robot, alerta a una vigilante.</string>
+		<string name="TEXT_13_ANIMACION">¡!</string>
+		<string name="TEXT_14_ANIMACION">Señor,¡No puede tocar las...! Oh, ¿Qué sucede Robbie?</string>
+		<string name="TEXT_15_ANIMACION">¡Ups!</string>
+		<string name="TEXT_16_ANIMACION">¡BIIP BEBOOOP!</string>
+		<string name="TEXT_17_ANIMACION">¿Tenemos que detener una invasión alienígena?</string>
+		<string name="TEXT_18_ANIMACION">¡¿Y ese ruido?! ¿Qué le ha pasado a esa pieza? ¡LA INVASIÓN HA EMPEZADO!</string>
+		<string name="TEXT_19_ANIMACION">¿Cómo...?</string>
+		<string name="TEXT_20_ANIMACION">¡BIIIIP BOOOP!</string>
+		<string name="TEXT_21_ANIMACION">¿Dices que hay una serie de pistas que nos darán la palabra para derrotarlos y tenemos que encontrarles?</string>
+		<string name="TEXT_22_ANIMACION">¿Podrás ayudarme a resolver los enigmas que me den las pistas?</string>
+
+		<string name="BUTTON_FINAL">¡Te Ayudaré!</string>
+
+		<string name="BUTTON_CORTO">Short Path</string>
+		<string name="BUTTON_MEDIO">Camino Medio</string>
+		<string name="BUTTON_LARGO">Camino Largo</string>
+
+		<string name="BUTTON_SI">Si</string>
+		<string name="BUTTON_NO">No</string>
+
+		<string name="TEXT_CORTO_VIÑETA">You have chosen the SHORT PATH. Are you sure you want to continue on this path?</string>
+		<string name="TEXT_MEDIO_VIÑETA">Has elegido el CAMINO MEDIO. ¿Estás seguro que quieres continuar por este camino?</string>
+		<string name="TEXT_LARGO_VIÑETA">Has elegido el CAMINO LARGO. ¿Estás seguro que quieres continuar por este camino?</string>
+
+		<string name="PAGINA_A">La primera pista está en la vitrina "Vida cotidina y signos de diferenciación social del antiguo EGIPTO". Para descifrala, tenemos que averiguar con qué hacían sus casas los habitantes del Nilo. Yo no lo sé ¿y tú, Robbie? ¿Puedes decirme con qué material terroso se contruian las viviendas del antiguo Egipto?</string>
+		<string name="PAGINA_H">Para resolver la siguiente palabra secreta del enigma, tenemos que saber con quién está jugando a los dados uno de los héroes más famoso de la guerra de Troya. ¿Lo ves tú en algún ñugar de la sala, Robbie?</string>
+		<string name="PAGINA_N">Robbie, ayúdame a descifrar a quién pertenece la estela funeraria que hay en esta sala. El nombre de la estela no es el mismo que el del guerrero muerto y es la una nueva pista para resolver el enigma y encontrar la palabra secreta.</string>
+		<string name="PAGINA_J">¡¡HEMOS ACABADO LA PRIMERA RUTA!!</string>
+		<string name="PAGINA_J_2">¡Has acabado el CAMINO CORTO! Compara tus descubrimientos con el CÓDIGO SECRETO de la última página y econtraras la palabra secreta.</string>
+		<string name="PAGINA_B">¡Esta sala está llena de mosaicos! La primera pista para formar la palabra secreta está relacionada con el mosico en que aparece el Genio del Año. Debemos averiguar cuál era el atributo que se asociaba con él</string>
+		<string name="PAGINA_E">¡Qué de recipientes diferentes hay en esta sala! ¿Cómo se llamará el que tiene forma de cánido?</string>
+		<string name="PAGINA_I">En esta sala aparecen unas mujeres que, según la mitología griega, vivían en los confines orientales del mundoy que rechazaban vivir bajo el dominio masculino. ¿Qué nombre reciben estas mujeres guerreras?</string>
+		<string name="PAGINA_M">En esta sala hay gran cantidad de objetos GRIEGOS, Beatriz enseguida descubre el que le dará la palabra para descifrar el código secreto.</string>
+		<string name="PAGINA_M_2">Eso es un brocal. Se ponia en los pozos. En su relieve podemos ver el nacimiento de una de las diosas más célebres de la mitología griega. Pero... ¿sabes su nombre? Esa es la nueva pista para llegar a la palabra secreta.</string>
+		<string name="PAGINA_L">¡YEEEEEEEEEEEEY!¡Ya casi lo tenemos!¡Choca esos cinco!</string>
+		<string name="PAGINA_L_2">¡Has acabado el CAMINO MEDIO! Revisa las palabras que has descubierto en la última página. Cuando descifres el código secreto, habrás encontrado la palabra escondida y podrás enviar tus resultados</string>
+		<string name="PAGINA_C">¡Armas y corazas! Los íberos tennían un tipo de arma típica llamada FALCATA. Lo que tenemos que averiguar es con qué dos materiales se hacían. ¿Me ayudas, Robbie?</string>
+		<string name="PAGINA_D">¡La de la izquierda es la Dima de BAZA! ¡Es una de las esculturas más conocidas de la cultura íbera! Pero me han dicho que tenía otra función además de ser una escultura preciosa. ¿Qué otra función tenía esta gran muestra del arte íbero?</string>
+		<string name="PAGINA_G">Robbie, ¿has visto qué sistema tan extraño de escritura usaban las antiguas civilizaciones del Próximo Oriente? ¿Recuerdas cómo se llamaban?</string>
+		<string name="PAGINA_F">En esta sala hay una cabeza que representa al Rey Gudea de la ciudad-estado de Lagash. La palabra que buscamos es el nombre de la piedra oscura en la que está esculpida</string>
+		<string name="PAGINA_K">Mira la parte izquierda de la vitrina, Robbie. ¡Es una respresentación de la diosa de Occidente! Pero ¿a qué periodo de la historia del antiguo Egipto pertenece?</string>
+		<string name="PAGINA_O">¡ROBBIE! ¡Hemos conseguido resolver el camino DIFÍCIL! Ven aquí, ¡Te has ganado UN BESO!</string>
+		<string name="PAGINA_O_2">¡Has acabado el CAMINO LARGO! Apunta tus descubrimientos en la viñeta FINAL. Cuando recorras los tres caminos, podrás enviar tus resultados</string>
+
+		<string name="SALA_12">Sala 12</string>
+		<string name="SALA_13">Sala 13</string>
+		<string name="SALA_16">Sala 16</string>
+		<string name="SALA_22">Sala 22</string>
+		<string name="SALA_23">Sala 23</string>
+		<string name="CULTURA_IBERICA">CULTURA IBÉRICA</string>
+		<string name="HISPANIA_ROMA">HISPANIA ROMA</string>
+		<string name="HISPANIA_ROMANIA">HISPANIA ROMANIA</string>
+
+		<string name="SALA_27">Sala 27</string>
+		<string name="SALA_30">Sala 30</string>
+		<string name="SALA_32">Sala 32</string>
+		<string name="SALA_33">Sala 33</string>
+		<string name="SALA_35">Sala 35</string>
+		<string name="SALA_36">Sala 36</string>
+		<string name="EGIPTO">EGIPTO</string>
+		<string name="MUNDO FUNERARIO">MUNDO FUNERARIO</string>
+		<string name="GRECIA">GRECIA</string>
+		<string name="PROXIMO ORIENTE">PRÓXIMO ORIENTE</string>
+		<string name="REINOS_CRISTIANOS">REINOS CRISTIANOS</string>
+		<string name="SIGLO_LUCES">SIGLO DE LAS LUCES</string>
+		<string name="EDAD_MODERNA">EDAD MODERNA</string>
+		<string name="MAPA">MAPA</string>
+		<string name="PLANTA_0">PLANTA 0</string>
+		<string name="PLANTA_1">1º</string>
+		<string name="PLANTA_2">2º</string>
+
+		<string name="FINAL">Has encontrado las tres palabras que describen a un ser mitológico ¿Nos ayudarías a encontrarlo?</string>
+		<string name="ENHORABUENA">¡ENHORABUENA!</string>
+		<string name="ESFINGE">La esfinge era es el ser mitológico que buscábamos</string>
+
+	</English>
+
+</languages>
